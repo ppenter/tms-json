@@ -7360,7 +7360,8 @@
         "province_id": 67,
         "created_at": "9/8/2019 03:33:09",
         "updated_at": "16/5/2022 06:31:26.606456",
-        "deleted_at": null
+        "deleted_at": null,
+        "factor": 1.5
       },
       {
         "id": 8407,
@@ -7450,7 +7451,8 @@
         "province_id": 67,
         "created_at": "9/8/2019 03:33:09",
         "updated_at": "16/5/2022 06:31:26.606456",
-        "deleted_at": null
+        "deleted_at": null,
+        "factor": 1.5
       },
       {
         "id": 8417,
